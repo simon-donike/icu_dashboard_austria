@@ -3,7 +3,7 @@
 SDI Project, Porti & Donike  
   
 # Server
-Currently running under [icu-dashboard.donike.net]([url])  
+Currently running under [www.icu-dashboard.donike.net]([url])  
 Data paths of files are relative, this repo can therefore be cloned. Bu it needs to be run in the right environment.
 
   
