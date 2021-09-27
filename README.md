@@ -170,7 +170,7 @@ In this example, the ICU total number of ICU beds as well as the occupancy perce
 
 The frontend consits of a Python flask application, that runs on WSGI and an Apache Webserver. Flask runs the Plotly Dash file, which is an open Source Library to create dashboards using Python. 
 
-## Kibana Server IP & Port  
+## Server 
 icu-dashboard.donike.net
 
 
